@@ -48,8 +48,8 @@ copyright: "إن المواد الأرشيفية في هذا الموقع مأخ
 description: >- # this means to ignore newlines until "baseurl:"
   A try to provide a good and simple theme for Arabic Content
 
-baseurl: "/The-Simple-Arabic-Theme" # the subpath of your site, e.g. /blog
-url: "https://mohamedalirashad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tawilfamily.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/The-Simple-Arabic-Theme/assets/images/arabic-half-moon.svg" # the favicon for your site
 default_img: "/assets/images/banners/23.webp" # The image your visitors see on your home page (الرئيسية)
 

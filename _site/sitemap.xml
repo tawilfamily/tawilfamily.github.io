@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/%D8%A3%D9%81%D9%83%D8%A7%D8%B1%20%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9/2022/07/01/agile-newt.html</loc>
+<loc>http://localhost:4000/%D8%A3%D9%81%D9%83%D8%A7%D8%B1%20%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9/2022/07/01/agile-newt.html</loc>
 <lastmod>2022-07-01T00:00:00+03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84/2024/05/04/tawil.html</loc>
+<loc>http://localhost:4000/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84/2024/05/04/tawil.html</loc>
 <lastmod>2024-05-04T00:00:00+03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/about.html</loc>
+<loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/archives.html</loc>
+<loc>http://localhost:4000/archives.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/categories.html</loc>
+<loc>http://localhost:4000/categories.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/contactus.html</loc>
+<loc>http://localhost:4000/contactus.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/The-Simple-Arabic-Theme/README.AR.html</loc>
+<loc>http://localhost:4000/README.AR.html</loc>
 </url>
 </urlset>
