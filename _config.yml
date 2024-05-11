@@ -27,7 +27,7 @@
 title: "أرشيف عائلة الطويل |سوريا|اللاذقية" # Learn to Build
 email: tawil.family.@gmail.com
 author: جلال ويحيى طويل
-
+permalink: /:title/
 # # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 remote_theme: "/"
 
